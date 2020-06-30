@@ -2,11 +2,13 @@ import React from 'react';
 import './App.css';
 
 import Navbar from './components/Navbar';
+import Skills from './components/Skills';
 
 function App() {
   return (
     <div className="App">
       <Navbar />
+      <Skills />
       <div className="container">
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget lobortis est, in lobortis ipsum. Vestibulum felis quam, blandit ut finibus ut, lobortis eget risus. Vestibulum vehicula dolor sed dignissim malesuada. Morbi a finibus diam. Maecenas sodales maximus lacus quis commodo. Praesent imperdiet tincidunt elit placerat finibus. Aenean fermentum turpis in volutpat facilisis. Nullam molestie mi in luctus semper. Sed vitae ultrices dui. Nulla malesuada metus ut elit finibus mattis. Integer maximus tristique velit, vel molestie enim posuere in. Mauris scelerisque ipsum lacus, a finibus magna auctor eu. Nullam consequat augue et augue viverra, nec luctus dolor sagittis. Quisque nec rutrum arcu, sit amet feugiat urna. Morbi vitae fringilla neque, eu consectetur leo. Mauris justo mauris, mollis nec aliquet eu, porta vitae mauris.
@@ -37,7 +39,9 @@ function App() {
           Morbi sit amet nulla faucibus, porta urna et, pretium lacus. Cras ut dui tellus. Vestibulum fringilla dignissim ante, ut finibus libero. Nullam mi massa, aliquam non nibh ac, bibendum porttitor sapien. Duis non ex lacus. Pellentesque a nunc et neque vestibulum vulputate ac eu felis. Maecenas mollis malesuada est eget aliquet.
         </p>
       </div>
-      <button id="btnScrollToTop"></button>
+      <button id="btnScrollToTop">
+        <span><i class="fa fa-chevron-up"></i></span>
+      </button>
     </div>
   );
 }
