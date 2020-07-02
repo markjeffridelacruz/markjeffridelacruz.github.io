@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Experience extends Component {
   render() {
     return (
-      <section id="exp">
+      <section id="exp" className="vertical-center">
         <div className="container">
           <div className="card">
             <div className="card-body">
