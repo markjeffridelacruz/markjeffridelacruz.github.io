@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Skills extends Component {
   render() {
     return (
-      <section>
+      <section id="skills">
         <div className="container">
           <div className="card">
             <div className="card-body">
@@ -24,6 +24,7 @@ class Skills extends Component {
                     <li className="list-group-item">Node.js</li>
                     <li className="list-group-item">React</li>
                     <li className="list-group-item">Bootstrap</li>
+                    <li className="list-group-item">Django</li>
                   </ul>
                 </div>
                 <div className="col-md">

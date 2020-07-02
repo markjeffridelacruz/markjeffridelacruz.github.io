@@ -8,6 +8,11 @@ section {
   padding-bottom: 25px;
 }
 
+.card {
+  border-width: thick;
+  border-color: #343a40;
+}
+
 .list-group-item {
   border: none;
 }

@@ -3,12 +3,12 @@ import React, { Component } from 'react';
 class Experience extends Component {
   render() {
     return (
-      <section>
+      <section id="exp">
         <div className="container">
           <div className="card">
             <div className="card-body">
             <h5 className="card-title">EXPERIENCE</h5>
-            <div className="row">
+            <div className="row pb-4">
               <div className="col-md-8">
                 <p className="lead">Reekoh</p>
                 <p>DevOps Engineer</p>
@@ -17,7 +17,7 @@ class Experience extends Component {
                 <p>Aug 2019 - Present</p>
               </div>
             </div>
-            <div className="row">
+            <div className="row pb-4">
               <div className="col-md-8">
                 <p className="lead">Trend Micro</p>
                 <p>Customer Service Engineer</p>

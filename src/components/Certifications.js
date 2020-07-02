@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Certifications extends Component {
   render() {
     return(
-      <section>
+      <section id="certs">
         <div className="container">
           <div className="card">
             <div className="card-body">
