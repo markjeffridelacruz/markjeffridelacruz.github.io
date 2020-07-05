@@ -1,3 +1,13 @@
+body {
+  background-color: #4a508e;
+  color: white;
+}
+
+.card,
+.list-group-item {
+  background-color: #479dbe;
+}
+
 .navbar-nav > li {
   padding-right: 6px;
   padding-left: 6px;
