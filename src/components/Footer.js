@@ -5,7 +5,7 @@ class Footer extends Component {
     return(
       <footer>
         <div className="container">
-          <p>&copy; 2020</p>
+          <p>&copy; {(new Date().getFullYear())}</p>
         </div>
       </footer>
     )

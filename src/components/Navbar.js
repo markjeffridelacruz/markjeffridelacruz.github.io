@@ -5,7 +5,7 @@ class Navbar extends Component {
     return (
       <nav className="navbar navbar-expand-md navbar-dark bg-dark sticky-top py-3">
         <div className="container">
-          <a className="navbar-brand" href="#home">
+          <a className="navbar-brand" href="#about">
             JEFFRI
           </a>
           <button className="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarResponsive">
