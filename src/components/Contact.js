@@ -5,9 +5,11 @@ class Contact extends Component {
     return (
       <section id="contact" className="vertical-center">
         <div className="container text-center">
-          <a href="mailto:markjeffridelacruz@gmail.com">
-            <p className="lead">markjeffridelacruz@gmail.com</p>
-          </a>
+          <div className="row">
+            <div className="col-md">
+              markjeffridelacruz@gmail.com
+            </div>
+          </div>
         </div>
       </section>
     )
