@@ -34,6 +34,11 @@ section {
   align-items: center;
 }
 
+.badge {
+  height: 200px;
+  width: 200px;
+}
+
 #btnScrollToTop {
   width: 40px;
   height: 40px;

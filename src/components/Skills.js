@@ -23,6 +23,7 @@ class Skills extends Component {
                   <ul className="list-group">
                     <li className="list-group-item">Node.js</li>
                     <li className="list-group-item">React</li>
+                    <li className="list-group-item">Express</li>
                     <li className="list-group-item">Bootstrap</li>
                     <li className="list-group-item">Django</li>
                   </ul>
