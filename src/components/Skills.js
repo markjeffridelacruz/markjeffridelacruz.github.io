@@ -41,6 +41,13 @@ class Skills extends Component {
                     <li className="list-group-item">Azure DevOps</li>
                   </ul>
                 </div>
+                <div className="col-md">
+                  <p className="lead">Platforms</p>
+                  <ul className="list-group">
+                    <li className="list-group-item">AWS</li>
+                    <li className="list-group-item">Azure</li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>

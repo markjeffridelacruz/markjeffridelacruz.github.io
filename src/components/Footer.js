@@ -5,7 +5,11 @@ class Footer extends Component {
     return(
       <footer>
         <div className="container">
-          <p>&copy; {(new Date().getFullYear())}</p>
+          <div className="row">
+            <div className="col-md">
+              <p>COPYRIGHT &copy; {(new Date().getFullYear())} JEFFRI</p>
+            </div>
+          </div>
         </div>
       </footer>
     )

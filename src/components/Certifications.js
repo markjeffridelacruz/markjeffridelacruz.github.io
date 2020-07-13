@@ -15,7 +15,7 @@ class Certifications extends Component {
               <h5 className="card-title">CERTIFICATIONS</h5>
               <div className="row">
                 <div className="col-md-2">
-                  <img src={AzureAdministratorAssociate} alt="Azure Administrator Associate" className="img-fluid mx-auto d-block" />
+                  <img src={AzureAdministratorAssociate} alt="Azure Administrator Associate" className="img-fluid mx-auto d-block badge" />
                 </div>
                 <div className="col-md-10 text-center py-5">
                   Microsoft Certified: Azure Administrator Associate
@@ -23,7 +23,7 @@ class Certifications extends Component {
               </div>
               <div className="row">
                 <div className="col-md-2">
-                  <img src={AWSDeveloperAssociate} alt="AWS Developer Associate" className="img-fluid mx-auto d-block" />
+                  <img src={AWSDeveloperAssociate} alt="AWS Developer Associate" className="img-fluid mx-auto d-block badge" />
                 </div>
                 <div className="col-md-10 text-center py-5">
                   AWS Certified Developer - Associate
@@ -31,7 +31,7 @@ class Certifications extends Component {
               </div>
               <div className="row">
                 <div className="col-md-2">
-                  <img src={AWSSolArchitectAssociate} alt="AWS Solutions Architect Associate" className="img-fluid mx-auto d-block" />
+                  <img src={AWSSolArchitectAssociate} alt="AWS Solutions Architect Associate" className="img-fluid mx-auto d-block badge" />
                 </div>
                 <div className="col-md-10 text-center py-5">
                   AWS Certified Solutions Architect - Associate
@@ -39,7 +39,7 @@ class Certifications extends Component {
               </div>
               <div className="row">
                 <div className="col-md-2">
-                  <img src={CiscoCCNASecurity} alt="CCNA Security" className="img-fluid mx-auto d-block" />
+                  <img src={CiscoCCNASecurity} alt="CCNA Security" className="img-fluid mx-auto d-block badge" />
                 </div>
                 <div className="col-md-10 text-center py-5">
                   Cisco Certified Network Associate Security
@@ -47,7 +47,7 @@ class Certifications extends Component {
               </div>
               <div className="row">
                 <div className="col-md-2">
-                  <img src={CiscoCCNARS} alt="CCNA Routing Switching" className="img-fluid mx-auto d-block" />
+                  <img src={CiscoCCNARS} alt="CCNA Routing Switching" className="img-fluid mx-auto d-block badge" />
                 </div>
                 <div className="col-md-10 text-center py-5">
                   Cisco Certified Network Associate Routing &amp; Switching
