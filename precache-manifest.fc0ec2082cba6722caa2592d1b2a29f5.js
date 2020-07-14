@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f342abf6d0d7261867206ce7340aa55",
+    "revision": "5cd9d0bc24ab89c0ac6a575a01739170",
     "url": "/index.html"
   },
   {
-    "revision": "93f4e91242c4f0486f56",
-    "url": "/static/css/main.b9903f1a.chunk.css"
+    "revision": "aa07dd5aa776bfbd8f12",
+    "url": "/static/css/main.ca15c26d.chunk.css"
   },
   {
     "revision": "49df20ad8bea756dc288",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.788ba80a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93f4e91242c4f0486f56",
-    "url": "/static/js/main.d5a64354.chunk.js"
+    "revision": "aa07dd5aa776bfbd8f12",
+    "url": "/static/js/main.8b224063.chunk.js"
   },
   {
     "revision": "ba077e8f15e9a38726ff",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c041404a08f53ac5636197bb94a81396",
     "url": "/static/media/AWS-SolArchitect-Associate.c041404a.png"
+  },
+  {
+    "revision": "8199f572cfea911d3a579e605c7aded6",
+    "url": "/static/media/ComputersBG.8199f572.jpg"
   },
   {
     "revision": "5245def3f561d80ce32a99b8b72c206f",
