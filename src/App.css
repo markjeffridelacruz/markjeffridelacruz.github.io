@@ -1,11 +1,18 @@
 body {
-  background-color: #03083f;
+  /* background-color: #03083f; */
+  background-color: hsla(235, 91%, 13%, 1);
   color: white;
+  background-image: url('assets/ComputersBG.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
 }
 
 .card,
 .list-group-item {
-  background-color: #4f52a7;
+  background-color: #5d60c4;
 }
 
 .navbar {
@@ -63,11 +70,16 @@ section {
   font-size: 14px;
 }
 
-.btn-primary {
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active {
   background-color: #3297c5;
+  border-color: #d16cc4 ;
 }
 
-.btn-primary:hover {
+.btn-primary:hover,
+.btn-primary:active {
   background-color: #3297c5;
-  box-shadow: 0 0 10px #3297c5;
+  box-shadow: 0 0 10px #d16cc4;
+  border-color: #d16cc4;
 }

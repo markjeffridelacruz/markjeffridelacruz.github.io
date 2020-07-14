@@ -12,17 +12,18 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <About />
-      <Skills />
-      <Experience />
-      <Certifications />
-      <Contact />
-      <Footer />
-      <button type="button" id="btnScrollToTop" className="btn btn-primary">
-        <span><i className="fa fa-chevron-up"></i></span>
-      </button>
-    </div>
+      <div className="bg"></div>
+        <Navbar />
+        <About />
+        <Skills />
+        <Experience />
+        <Certifications />
+        <Contact />
+        <Footer />
+        <button type="button" id="btnScrollToTop" className="btn btn-primary">
+          <span><i className="fa fa-chevron-up"></i></span>
+        </button>
+      </div>
   );
 }
 
