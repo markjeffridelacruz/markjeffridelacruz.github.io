@@ -9,7 +9,7 @@ body {
 }
 
 .navbar {
-  background-color: #1f7096 !important;
+  background-color: #3297c5 !important;
 }
 
 .navbar-nav > li {
@@ -34,7 +34,7 @@ section {
 
 .card {
   border-width: thick;
-  border-color: #9e4292;
+  border-color: #d16cc4;
 }
 
 .list-group-item {
@@ -61,4 +61,13 @@ section {
   z-index: 500;
   cursor: pointer;
   font-size: 14px;
+}
+
+.btn-primary {
+  background-color: #3297c5;
+}
+
+.btn-primary:hover {
+  background-color: #3297c5;
+  box-shadow: 0 0 10px #3297c5;
 }

@@ -19,7 +19,7 @@ function App() {
       <Certifications />
       <Contact />
       <Footer />
-      <button id="btnScrollToTop">
+      <button type="button" id="btnScrollToTop" className="btn btn-primary">
         <span><i className="fa fa-chevron-up"></i></span>
       </button>
     </div>
