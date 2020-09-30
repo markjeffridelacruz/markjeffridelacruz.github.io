@@ -4,6 +4,7 @@ import CiscoCCNASecurity from '../assets/cisco_ccna_security.png'
 import AWSSolArchitectAssociate from '../assets/AWS-SolArchitect-Associate.png'
 import AWSDeveloperAssociate from '../assets/AWS-Developer-Associate.png'
 import AzureAdministratorAssociate from '../assets/azure-administrator-associate.png'
+import AzureDevOpsEngineerExpert from '../assets/CERT-Expert-DevOps-Engineer-600x600.png'
 
 class Certifications extends Component {
   render() {
@@ -13,6 +14,14 @@ class Certifications extends Component {
           <div className="card">
             <div className="card-body">
               <h5 className="card-title">CERTIFICATIONS</h5>
+              <div className="row">
+                <div className="col-md-2">
+                  <img src={AzureDevOpsEngineerExpert} alt="Azure DevOps Engineer Expert" className="img-fluid mx-auto d-block badge" />
+                </div>
+                <div className="col-md-10 text-center py-5">
+                  Microsoft Certified: Azure DevOps Engineer Expert
+                </div>
+              </div>
               <div className="row">
                 <div className="col-md-2">
                   <img src={AzureAdministratorAssociate} alt="Azure Administrator Associate" className="img-fluid mx-auto d-block badge" />
