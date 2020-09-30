@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58d4c8b8d2a23011ed7ea548bebb90ff",
+    "revision": "095d92780dcd78637c246d48cc06627b",
     "url": "/index.html"
   },
   {
-    "revision": "9cc652052de7faa49c80",
+    "revision": "f9ffff3f21f37a2c0574",
     "url": "/static/css/main.ca15c26d.chunk.css"
   },
   {
-    "revision": "49df20ad8bea756dc288",
-    "url": "/static/js/2.788ba80a.chunk.js"
+    "revision": "9c969270249ad09db4c3",
+    "url": "/static/js/2.7080d151.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.788ba80a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7080d151.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cc652052de7faa49c80",
-    "url": "/static/js/main.5388bfc6.chunk.js"
+    "revision": "f9ffff3f21f37a2c0574",
+    "url": "/static/js/main.c90f5480.chunk.js"
   },
   {
     "revision": "ba077e8f15e9a38726ff",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c041404a08f53ac5636197bb94a81396",
     "url": "/static/media/AWS-SolArchitect-Associate.c041404a.png"
+  },
+  {
+    "revision": "9ea5ba560dc0d1632b6de96d6fab03f9",
+    "url": "/static/media/CERT-Expert-DevOps-Engineer-600x600.9ea5ba56.png"
   },
   {
     "revision": "8199f572cfea911d3a579e605c7aded6",
